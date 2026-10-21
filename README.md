@@ -6,6 +6,7 @@ Llegado, Jessica Nadine E. - DF21
 This repository contains my web development portfolio for course BA0013L.
 
 ### Project Structure
+
 * index.html - Primary HTML page
 * css/ - Custom CSS stylesheets
 * js/ - JavaScript dynamic scripts
